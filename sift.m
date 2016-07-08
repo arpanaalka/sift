@@ -1,6 +1,6 @@
 %% ********************This program finds the key points and their descriptors**************************************
 %% ********************SIFT: Scale Invariant Features Transform*****************************************************
-%% ********************Modified By Nimai Chand Das Adhikari*********************************************************
+%% ********************Modified By Arpana Alka*********************************************************
 %% Important Variables
 % a : Input image
 % kpmag : keypoints magnitude
